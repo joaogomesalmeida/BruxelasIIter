@@ -1,3 +1,9 @@
 #+TITLE: Readme
 
 Draft para artigo sobre as novidades do Regulamento 2019/1111, conhecido como Regulamento Bruxelas II /ter/ ou Regulamento Bruxelas II /bis/ (reformulado)
+
+* Prazos
+** TODO enviar mail a informar o teor do artigo
+DEADLINE: <2021-02-15 Mon>
+** TODO Entregar artigo
+DEADLINE: <2021-05-15 Sat>
