@@ -1,0 +1,12 @@
+#+TITLE: Um primeiro olhar sobre as novidade do Regulamento Bruxelas II /ter/
+#+AUTHOR: João Gomes de Almeida
+
+* TODO Introdução
+* TODO Ações matrimoniais
+** [ ] Competência internacional
+** [ ] Reconhecimento
+* TODO Responsabilidades parentais
+** [ ] Competência internacional
+** [ ] Rapto internacional de crianças (?)
+** [ ] Reconhecimento
+* TODO Conclusões
